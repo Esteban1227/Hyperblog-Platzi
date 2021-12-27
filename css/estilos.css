@@ -33,3 +33,12 @@ body{
 #post{
     padding: 1em;
 }
+footer{
+    display: inline-block;
+    background:#33a ;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 0;
+    width: 100%;
+}
